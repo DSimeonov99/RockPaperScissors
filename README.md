@@ -1,2 +1,2 @@
-# RockPaperScissors
+# Basic Projects
 Basic Project  
